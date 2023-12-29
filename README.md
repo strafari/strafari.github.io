@@ -1,1 +1,1 @@
-# strafari.github.io
+# strafari.github.io/Laba1
